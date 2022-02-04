@@ -1,0 +1,12 @@
+{
+	"twitter": {
+		"consumer_key": "RSA8hhRraPoe2cJQCJBtPIgL2",
+		"consumer_secret": "82LljGu7NBtmKyw7aLAW7acCxiWqYLewqOdjE5It8OCULIjbBO",
+		"access_token": "944334844699348992-xKYPphHRBEBsgJI2jaItGYathvwvBY2",
+		"access_token_secret": "UqN8v9RcULSjQMyjiLWjRMommITymDq3ju045ufbI3W2O"
+	},
+	"telegram": {
+		"access_token": "5184787512:AAHVshhUP-XM8zBa3nlwoxaivahsqnwDQTc",
+		"username": "DeadFvck"
+	}
+}
