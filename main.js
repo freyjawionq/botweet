@@ -9,6 +9,8 @@ const TwitterCredential = {
 	consumer_secret: Credentials.twitter.consumer_secret,
 	access_token: Credentials.twitter.access_token,
 	access_token_secret: Credentials.twitter.access_token_secret,
+        client_id: Credentials.twitter.client_id,
+        client_secret: Credentials.twitter.client_secret,
 };
 const TelegramCredential = Credentials.telegram.access_token;
 
